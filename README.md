@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @antomacri
-- 👀 Me interesa el mundo de la programacion
-- 🌱 Actualmente estoy aprendiendo
-- 💞️ Busco colaborar en el trabajo
-- 📫 Como contactarme...
+- 👀 Soy programadora junior - TEC industrial proximamente Ingeniera . 
+- 🌱 Actualmente estoy aprendiendo Backend
+- 💞️ Soy analista de datos Gananadora del Hackathon Buenos aires 2.0 de UTN 
+- 📫 Como contactarme
+- instagram @anthomacr1
 
 <!---
 antomacri/antomacri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
