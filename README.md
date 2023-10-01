@@ -13,8 +13,8 @@ Soy un apasionado desarrollador  con un profundo interés en la programación y 
 - **Experiencia en:** [ Analisis de datos ]
 
 ## Proyectos Destacados
-- [Nombre del Proyecto 1]: [Hackathon BA multiplica 2.0. centro de Learning UTN]
-- [Nombre del Proyecto 2]: [Ecobici]
+- Nombre del Proyecto 1: [ Hackathon BA multiplica 2.0. centro de Learning UTN ]
+- Nombre del Proyecto 2]: [Ecobici]
 
 
 ## Experiencia Laboral
